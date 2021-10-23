@@ -1,3 +1,10 @@
+# Programacio1rASIXDAM-IntelliJ
+Projectes Java usats pels alumnes de 1r d'ASIX-DAM
+>>>>>>> I informació interessant pels alumnes....
+
+
+
+
 We can package our Java application into a **JAR** file, but if the project contains some executable code *IntelliJ* unfortunately does not include the main class name in the JAR's manifest and for so, our JAR is not an executable one and we could not run the application with *java -jar* command.
 
 For achieving this we have to add some lines to our ***POM.xml*** project file, more specifically into the **project·build·plugins** section: 
