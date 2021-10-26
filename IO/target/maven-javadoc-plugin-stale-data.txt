@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'IO 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'IO 1.0-SNAPSHOT API'
+com.iesebre.programming
+/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/src/main/java = 1635279961037
+/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/target/apidocs/stylesheet.css = 1635280729616
+/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/target/apidocs/script.js = 1635280729620
+/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/target/apidocs/type-search-index.js = 1635280729600
+/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/target/apidocs/allpackages-index.html = 1635280729600
+/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/target/apidocs/module-search-index.js = 1635280729600
+/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/target/apidocs/tag-search-index.js = 1635280729604
+/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/target/apidocs/member-search-index.js = 1635280729600
+/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/target/apidocs/package-search-index.js = 1635280729600
+/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/target/apidocs/index.html = 1635280729612
+/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/target/apidocs/overview-tree.html = 1635280729588
+/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/target/apidocs/element-list = 1635280729568
+/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/target/apidocs/help-doc.html = 1635280729616
+/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/target/apidocs/allclasses-index.html = 1635280729600
+/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/target/apidocs/search.js = 1635280729620
+/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/target/apidocs/index-all.html = 1635280729612
+/home/profe/MEGAsync/IntelliJProjects/2021-2022/ASIX/programacio1rASIXDAM-IntelliJ/IO/target/apidocs/jquery-ui.overrides.css = 1635280729624
