@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  *
  * @author Santi Sabaté 2021
- * @version 1.1
+ * @version 1.1 modular
  */
 public class ScannerIE {
 
