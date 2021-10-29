@@ -96,14 +96,22 @@ The solution has been obtained from [this web page](http://tutorials.jenkov.com/
 
 **Info nº 3:**
 
-When we have built a Java library with Maven, the usual thing is that we want to use it from other projects. For made it easy we must follow these next 2 steps in IntelliJ:
-+firstly, we must install our project library into the local Maven repository. We must only execute *mvn install* command in the terminal or in the **IntelliJ's Maven tool window**, having our library project open, of course,
-![](imgs/20211029-185219.png)![]                               (imgs/20211029-185433.png)
-+secondly, we must open the project where we want to use the library, and add the Maven module generated in the prior step into the **IntelliJ's Maven tool window**, clicking the \+ and selecting the directory in our local Maven repository,
-![](imgs/20211029-190133.png)
+When we have built a Java library with Maven, the usual thing is that we want to use it from other projects. For made it easy we must follow these next 2 steps in IntelliJ:  
 
-![](imgs/20211029-185959.png)
-The solution has been inspired from [this web page](https://www.jetbrains.com/help/idea/2020.2/delegate-build-and-run-actions-to-maven.html#link_unlink_maven_project).
+
+- firstly, we must install our project library into the local Maven repository. We must only execute *mvn install* command in the terminal or in the **IntelliJ's Maven tool window**, having our library project open, of course,  
+
+![](imgs/20211029-185219.png)  
+  
+  ![](imgs/20211029-185433.png)                            
+
+- secondly, we must open the project where we want to use the library, and add the Maven module generated in the prior step into the **IntelliJ's Maven tool window**, clicking the \+ and selecting the directory in our local Maven repository,  
+
+![](imgs/20211029-190133.png)  
+
+![](imgs/20211029-185959.png)  
+
+The solution has been inspired by [this web page](https://www.jetbrains.com/help/idea/2020.2/delegate-build-and-run-actions-to-maven.html#link_unlink_maven_project).
 
 
 
