@@ -4,7 +4,7 @@ Projectes Java usats pels alumnes de 1r d'ASIX-DAM
 \+ informació interessant pels alumnes....
 
 
-#+ Info nº 1:
+**Info nº 1:**
 
 We can package our Java application into a **JAR** file, but if the project contains some executable code *IntelliJ* unfortunately does not include the main class name in the JAR's manifest and for so, our JAR is not an executable one and we could not run the application with *java -jar* command.
 
@@ -51,7 +51,7 @@ The solution has been obtained from [this web page](https://www.baeldung.com/exe
 
 
 
-###+ Info nº 2:
+**Info nº 2:**
 
 Again, we can package our Java application into a **JAR** file, but if the project has third-party library dependencies our application won't run because it won't find the classes in those libraries.
 
