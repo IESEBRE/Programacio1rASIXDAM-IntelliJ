@@ -25,6 +25,17 @@ public class ScannerIE {
     }
 
     /**
+     * Constructs a new {@code Scanner} that produces values scanned
+     * from the system default input stream. Bytes from the stream are converted
+     * into characters using the underlying platform's
+     * {@linkplain java.nio.charset.Charset#defaultCharset() default charset}.
+     *
+     */
+    public ScannerIE() {
+        in = new Scanner(System.in);
+    }
+
+    /**
      * Scans the next token of the input as an {@code int}.
      *
      * <p> An invocation of this method of the form
