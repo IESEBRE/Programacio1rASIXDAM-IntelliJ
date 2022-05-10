@@ -34,6 +34,7 @@ For achieving this we have to add some lines to our ***POM.xml*** project file, 
 <plugin>
 	<groupId>org.apache.maven.plugins</groupId>
 	<artifactId>maven-jar-plugin</artifactId>
+	<version>3.3.0</version>
 	<configuration>
 		<archive>
 			<manifest>
